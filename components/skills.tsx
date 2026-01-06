@@ -19,17 +19,14 @@ export default function Skills() {
     {
       category: "Security & Networking",
       skills: [
-        { name: "Ethical Hacking", icon: Shield },
         { name: "Network Security", icon: Network },
         { name: "Cisco Routers", icon: Wifi },
-        { name: "Penetration Testing", icon: Lock },
       ],
     },
     {
       category: "Systems & Infrastructure",
       skills: [
         { name: "Virtualization", icon: Server },
-        { name: "Red Hat Linux", icon: Terminal },
         { name: "Linux", icon: Terminal },
       ],
     },
